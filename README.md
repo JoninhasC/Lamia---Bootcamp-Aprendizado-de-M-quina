@@ -1,1 +1,1 @@
-# Lamia---Bootcamp-Aprendizado-de-M-quina
+# Lamia---Bootcamp-Aprendizado-de-Maquina
