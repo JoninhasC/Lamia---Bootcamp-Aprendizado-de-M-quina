@@ -38,3 +38,5 @@ def stock_market():
 # Sem esta chamada, a DAG não seria registrada no Airflow.
 # A função `stock_market()` é chamada uma vez para criar a DAG, e então ela é executada conforme o agendamento definido no `schedule`.
 stock_market()
+
+
